@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1565600644585.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1BD40DAE",
+    "lastKnownWriteTime" : 1565600636,
+    "last_content_update" : 1565600811564,
+    "path" : "F:/Git/liudq1/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "19,39",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
